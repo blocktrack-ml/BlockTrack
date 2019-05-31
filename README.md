@@ -3,6 +3,10 @@
 BlockTrack is an IT project that offers monitoring solutions around the infrastructure management and around tasks automation, operating in small and large scale systems that demand on-time surveillance of the entire enterprise stack.
 
 [![Gitter](https://badges.gitter.im/BlockTrack_ml/community.svg)](https://gitter.im/BlockTrack_ml/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
+## Documentation
+  
+[![Documentation](https://media.readthedocs.com/corporate/img/header-logo.png)](https://blocktrack.readthedocs.io/en/latest/)  
  
 
 ## Backers  
