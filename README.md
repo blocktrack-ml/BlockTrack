@@ -1,5 +1,8 @@
 [![Logo Blocktrack](/BlockTrack.png)](https://blocktrack.ml) 
+
 # BlockTrack
+[![Build Status](https://travis-ci.org/blocktrack-ml/Blocktrack.svg?branch=master)](https://travis-ci.org/blocktrack-ml/Blocktrack)
+
 BlockTrack is an IT project that offers monitoring solutions around the infrastructure management and around tasks automation, operating in small and large scale systems that demand on-time surveillance of the entire enterprise stack.
 
 [![Gitter](https://badges.gitter.im/BlockTrack_ml/community.svg)](https://gitter.im/BlockTrack_ml/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
