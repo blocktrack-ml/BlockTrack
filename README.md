@@ -5,6 +5,7 @@ BlockTrack is an IT project that offers monitoring solutions around the infrastr
 [![Gitter](https://badges.gitter.im/BlockTrack_ml/community.svg)](https://gitter.im/BlockTrack_ml/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Documentation
+[![Documentation Status](https://readthedocs.org/projects/blocktrack/badge/?version=latest)](https://blocktrack.readthedocs.io/en/latest/?badge=latest) 
   
 [![Documentation](https://media.readthedocs.com/corporate/img/header-logo.png)](https://blocktrack.readthedocs.io/en/latest/)  
  
