@@ -2,7 +2,8 @@
 # Blocktrack
 BlockTrack is an IT project that offers monitoring solutions around the infrastructure management and around tasks automation, operating in small and large scale systems that demand on-time surveillance of the entire enterprise stack.
 
- [![Join the chat at https://gitter.im/blocktrack/Lobby](https://badges.gitter.im/blocktrack/Lobby.svg)](https://gitter.im/blocktrack/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://badges.gitter.im/BlockTrack_ml/community.svg)](https://gitter.im/BlockTrack_ml/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+ 
 
 ## Backers  
 [[Become a backer](https://opencollective.com/blocktrack#backer)] and get your image on our README on Github with a link to your site.  
