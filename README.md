@@ -3,6 +3,7 @@
 # BlockTrack
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
 [![Build Status](https://travis-ci.org/blocktrack-ml/Blocktrack.svg?branch=master)](https://travis-ci.org/blocktrack-ml/Blocktrack)
+[![Docker Pulls](https://img.shields.io/docker/pulls/hamza24/blocktrack.svg)](https://hub.docker.com/r/hamza24/blocktrack)
 ![Website](https://img.shields.io/website/http/blocktrack.ml.svg?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)
 [![Requirements Status](https://requires.io/github/blocktrack-ml/BlockTrack/requirements.svg?branch=master)](https://requires.io/github/blocktrack-ml/BlockTrack/requirements/?branch=master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
