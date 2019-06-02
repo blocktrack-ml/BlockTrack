@@ -1,10 +1,9 @@
 [![Logo Blocktrack](/BlockTrack.png)](https://blocktrack.ml) 
 
 # BlockTrack
-[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/569/badge)](https://bestpractices.coreinfrastructure.org/projects/569)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/2863/badge)](https://bestpractices.coreinfrastructure.org/projects/2863)
 [![Build Status](https://travis-ci.org/blocktrack-ml/Blocktrack.svg?branch=master)](https://travis-ci.org/blocktrack-ml/Blocktrack)
 [![Docker Pulls](https://img.shields.io/docker/pulls/blocktrackml/blocktrack.svg)](https://hub.docker.com/r/blocktrackml/blocktrack)
-[![Requirements Status](https://requires.io/github/blocktrack-ml/BlockTrack/requirements.svg?branch=master)](https://requires.io/github/blocktrack-ml/BlockTrack/requirements/?branch=master)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 BlockTrack is an IT project that offers monitoring solutions around the infrastructure management and around tasks automation, operating in small and large scale systems that demand on-time surveillance of the entire enterprise stack.
